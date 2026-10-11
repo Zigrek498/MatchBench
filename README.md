@@ -62,7 +62,7 @@ We manually classified the raw data into hierarchical categories. The dataset is
 ## 2 Access MatchBench
 ### Download dataset
 
-Our dataset has been officially released on the Github. It is available at [MatchBench](https://github.com/Zigrek498/MatchBench). The original images are saved in the **_(data/img)_** directory, and the annotated data are saved in the **_(data/*.jsonl)_** files.
+Our dataset has been officially released on the Github. It is available at [MatchBench](https://anonymous.4open.science/anonymize/MatchBench-4EB7). The original images are saved in the **_(data/img)_** directory, and the annotated data are saved in the **_(data/*.jsonl)_** files.
 
 
 ### Data Format
