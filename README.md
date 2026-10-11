@@ -41,7 +41,7 @@ The dataset includes 5,731 samples collected from educational platforms, social 
 
 ### Examples
 The following figures compare sample data from our MatchBench with existing visual‑matching reasoning benchmarks. “Q” and “A” denote the question and answer, respectively.
-![MatchBench Examples](illustrations/intro.pdf)
+![MatchBench Examples](illustrations/comparison.png)
 
 ### Detail Information
 
@@ -57,7 +57,7 @@ The following table lists the detailed information statistics of the split datas
 ### Dataset classification
 
 We manually classified the raw data into hierarchical categories. The dataset is organized under five top‑level matching categories: Compositional Matching, Geometric Transformation Matching, Visual Completion Matching, Attribute Consistency Matching, and 2D‑3D Correspondence Matching, which are further divided into 14 fine‑grained sub‑types. Sample volume varies across sub‑categories, ranging from 52 to 844 instances. This uneven distribution mirrors the frequency of different reasoning tasks within real‑world educational resources. The following chart shows the detailed classification of our dataset.
-![MatchBench Classification](illustrations/diversity.pdf)
+![MatchBench Classification](illustrations/classification.png)
 
 ## 2 Access MatchBench
 ### Download dataset
